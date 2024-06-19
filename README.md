@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alammobadar" alt="alammobadar" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Data fundamentals**
+- 🌱 I’m currently learning **Python, Machine Learning and Data fundamentals**
 
 - 📫 How to reach me **edrichdarrensantuyo@gmail.com | Edrich Darren Santuyo**
 
