@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning about Python, Machine Learning, Deep Learning and Data Fundamentals<br>
+I'm currently learning about Python, Machine Learning, Deep Learning, Data Fundamentals<br>
 
 
 # 💻 Tech Stack:
